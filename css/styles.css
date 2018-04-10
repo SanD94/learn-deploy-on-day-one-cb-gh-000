@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#safa-andac-card {
+  background-image: url('');
+}
+
+#safa-andac-cover {
+  background-image: url('');
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
